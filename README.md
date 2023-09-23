@@ -16,3 +16,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
+<a href="https://codecraftedtales.info/" target="_blank">### Portfolio<a>
